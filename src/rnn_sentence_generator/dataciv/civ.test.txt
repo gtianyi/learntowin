@@ -1,0 +1,345 @@
+the unit disappears as the people it represents become the first population point of the new city .
+the add to city order can be used to increase the size of an existing city with less than ten population points .
+move a settlers or engineer unit into an existing city and press the build b key or choose add to city from the orders menu .
+the unit is absorbed into the city , adding one point to its population .
+making improvements .
+settlers , and later engineers , can make a number of agricultural and industrial improvements to your civilization's topography .
+each task takes a certain number of turns to complete , depending on the terrain being improved .
+some improvements can only be undertaken after your civilization has acquired certain technologies .
+engineers , being better trained and equipped , can accomplish tasks twice as fast as settlers .
+engineers are also the only units that can transform terrain .
+teamwork makes these units work faster .
+you can combine settlers and/or engineers to accomplish tasks more rapidly .
+for example , two settlers units work twice as rapidly as one , and three can accomplish a task in one- third the standard time .
+one settlers unit and an engineer can also accomplish a task in one-third the standard time , since the engineer naturally works faster than the settlers .
+there is no limit to the number of times your settlers or engineers can build new improvements on any given terrain square — if the changing needs of your civilization demand clearing , irrigation , reforestation , clearing , pollution clean-up -lrb- detoxification -rrb- , and reforestation in succession , the land can take it .
+if an option is grayed out on the orders menu , that task can not be accomplished at this time .
+perhaps undertaking another improvement will make the desired option available in the future .
+for instance , a plains square surrounded by forest has no access to water and can not be irrigated .
+you'll need to clear at least one of the adjacent forests -lrb- one that shares a side with the target square -rrb- and irrigate it , before irrigation becomes available to the target square .
+we've extracted all the variations into a table which lists the task , the shortcut key , the required advance , if any , and the terrain types which benefit from this improvement .
+full explanations of each activity appear after the table .
+irrigate .
+depending on the form of government employed by your civilization , irrigation can improve the agricultural production of a city's relatively level terrain .
+a suitable square can be irrigated if it shares one side with a source of water -lrb- ocean square or terrain with a river running through it -rrb- or another irrigated square -lrb- diagonal doesn't count -rrb- .
+although your city square might be irrigated when the city is founded , it does not count as a source of water for further irrigation .
+sometimes you might find it necessary to irrigate squares to which your city has no access , in order to extend irrigation into squares the city uses .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build irrigation option on the orders menu or press the i key .
+clear .
+clearing terrain improves the movement point cost of dense terrain -lrb- although it eliminates the defensive bonus -rrb- , and provides land suitable to further improvement through irrigation or reforestation .
+sometimes a terrain square might need to be cleared to allow for irrigation access , and later reforested to restore valuable resources .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the change to grassland -lrb- sometimes change to plains -rrb- option on the orders menu or press the i key .
+build farm .
+planting market gardens and other high-yield farmland is the post-industrial farmer's task .
+once your civilization has discovered the refrigeration advance , settlers or engineer units can intensify the food output of irrigated land by another 50 percent in cities that build the supermarket improvement .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the improve farmland option on the orders menu or press the i key .
+build fortress .
+building fortresses can be essential for defense of terrain that is not a city site .
+fortresses provide a defensive bonus to rural or frontier units in the same way the city walls improvement benefits urban defensive units -lrb- see combat for the full details -rrb- .
+in addition , representative governments can station troops in fortresses that are within three squares of a friendly city without incurring a field service penalty -lrb- see happiness & civil disorder for complete details -rrb- .
+once your tribe has discovered the construction advance , this option becomes available in the orders menu .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build fortress option or press the f key .
+mine .
+mining terrain allows full utilization of the natural resources present .
+it is especially useful in special terrain like coal and gold .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build mine option on the orders menu or press the m key .
+reforest .
+reforestation improves the shield production of most terrain -lrb- though it increases the movement point cost of open terrain if there is no road or railroad through the square -rrb- .
+reforesting plains and grassland squares also improves their defensive bonus .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the change to forest option on the orders menu or press the m key .
+clean up pollution .
+detoxifying squares by cleaning up the pollution there restores the full -lrb- pre-pollution -rrb- production capacity to the affected squares .
+a long-term benefit of clean-up is the reduced chance of global warming , which might otherwise occur -lrb- see terrain & movement for details -rrb- .
+both industrial pollution and nuclear contamination can be eliminated by clean-up efforts .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the clean up pollution option on the orders menu or press the p key .
+build road .
+building roads across terrain reduces the movement point cost of that square by one-third , provided that the moving unit enters from an adjacent road square .
+depending on the form of government under which you civilization operates , it can also improve the trade production of the square .
+roads are the foundations for railroads .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build road option on the orders menu or press the r key .
+build railroad .
+laying track across terrain eliminates the movement point cost of that square providing the moving unit enters from an adjacent railroad square .
+railroads also increase shield production by 50 percent , rounded down .
+you can only build railroads where you have already built roads .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build railroad option on the orders menu or press the r key .
+transform .
+modern equipment and engineering techniques allow workers to transform even the most inhospitable land into a productive terrain .
+once your civilization has discovered the explosives advance , this option becomes available to your engineer units .
+when your engineer unit is positioned in the appropriate terrain square , choose the transform option on the orders menu or press the o key .
+build airbase .
+building rural airbases allows your air units more flexibility in their flight plans and enables them to patrol a greater area .
+once your civilization has discovered the radio advance , this option becomes available on the order menu .
+when your settlers or engineer unit is positioned in the appropriate terrain square , choose the build airbase option or press the e key .
+explorers .
+explorers are non-combat units that can treat all terrain as roads .
+their bravery and resourcefulness makes them ideal for opening up new continents and discovering the far reaches of a landmass quickly .
+explorers can ignore enemy units' zones of control ; however , for diplomatic purposes -lrb- peace treaties and alliances -rrb- your rivals consider explorers as dangerous as they do combat units .
+barbarians .
+barbarians are small tribes of raiders that are not part of any opposing civilization .
+they always carry red shields .
+you can set the likelihood and frequency of barbarian attacks in the initial game choices you make .
+you might encounter them periodically as your civilization begins to expand and grow .
+they sometimes invade from the sea ; other times they arise suddenly in unsettled parts of any continent .
+barbarians might attempt to capture or destroy your cities , and pillage your fields and mines .
+most barbarian tribes are accompanied by a leader .
+because barbarians can appear along any coast or in any unsettled area , it is important to defend your cities with at least one military unit .
+barbarians -lrb- and rival armies -rrb- can walk right into an undefended city , capturing it with only minor bloodshed -lrb- the captured city loses one population point , just as any city taken by force does — see capturing cities under cities for the gory details -rrb- .
+even if barbarians capture a city or several cities , they do not become a rival civilization — that is , they do not join the space race , or negotiate treaties , or earn rank in historians' reckonings .
+sea raiders can be fought on land or engaged at sea in their ships .
+land barbarians arise in areas that are outside the radius of a city .
+as time passes , they appear at even farther distances from civilization .
+thus , expanding your network of cities over a continent eventually removes the threat of land barbarians , because the entire area has become more or less civilized by your urban presence .
+ransoming barbarian leaders .
+when you attack and destroy stacked barbarian units , the leader units fall with their troops and are also destroyed .
+however , if a barbarian leader stands alone in a square , and your army wins an attack against him , he is captured .
+his compatriots immediately give you gold to ransom him back — the amount they pay is based on the barbarian level you chose in game setup .
+barbarian leaders who have lost their armies attempt to escape .
+if not captured in a few turns , they disappear .
+diplomacy .
+other cultures share your world in civilization ii .
+if your attitude is expansionist and your home continent is large , you might seek out — and find — your rivals early in the game .
+if you concentrate on perfecting your own cities or find yourself limited by a small continent , it might be centuries before you encounter other players .
+whether you opt for peaceful communications or aggressive action depends on your style .
+concepts of diplomacy .
+eventually , no matter how isolated your location or how isolationist your policies , you will have contact with rival civilizations .
+choosing to meet with a rival allows you to explore the intricacies of negotiation .
+every ai opponent has an attitude that he or she presents to negotiators .
+your rivals' attitudes can range from friendly to inimical .
+you can tell what attitude a leader has by watching the body language of the emissary after he or she stops speaking and by observing the titles of the dialog boxes during negotiations .
+a ruler's personality affects his or her attitude .
+your rivals' attitudes can change over time , depending on your rank in the game , the current balance of power , the gifts you offer them , and your reputation for keeping your word in negotiations : every time you go back on your word , international observers notice and remember .
+diplomatic negotiations can result in five different states : alliance , peace , cease-fire , neutrality or war .
+a rival might demand money or civilization advances -lrb- the reverse is also true — you can demand money or civilization advances from rival rulers -rrb- .
+in addition , negotiations can include requests to share maps and instructions to withdraw trespassing troops .
+a player might even ask you to declare war on a third party .
+all negotiations progress through a series of screens , each with a variety of pre-set options .
+establishing embassies in your rivals' cities allows you to increase your negotiating power .
+by checking your foreign minister's reports , you can see whether , for example , the bellicose indians have the city base to back up their threats , or whether they are just bluffing .
+you'll have a better idea of when to back down and when to press for concessions .
+conducting diplomacy with computer opponents .
+diplomacy is conducted face to face with one rival emissary at a time .
+an opponent can contact you any time after units from each of your civilizations have met , and the reverse is also true .
+you can contact an opponent any time after your units have been adjacent to his or hers .
+just select the send emissary option from the foreign minister's report in the advisors menu .
+in game terms , once you choose the send emissary option , a dialog box opens , offering you several responses from which to select your intent .
+the form of government under which your civilization currently operates can influence the choices you have ; see governments for the details. establishing embassies with other civilizations can be a very useful preparation for negotiations .
+your foreign minister collects information from all of your embassies .
+from him you can learn important facts about your opponents , including the personalities of their leaders , their diplomatic states with respect to all civilizations with whom they have contact , the number and names of their cities , the extent of their technological advances , their current research project , and the amount in their treasury .
+this information is not available for civilizations with which you have not established an embassy .
+mood and personality .
+the tone and result of any negotiations are greatly influenced by the mood of your rival .
+the opposing leader might be antagonistic , obsequious , or somewhere in between .
+this mood depends on the leader's personality and how your two civilizations compare to each other and to the rest of the world .
+you might pick up cues about a rival's mood from the body language of the emissary .
+a rival leader's personality might be aggressive , rational or neutral .
+aggressive leaders are more likely to lean toward war or demand high payments for peace .
+rational leaders are more likely to offer peace and might only be bluffing when asking for payment .
+if you have broken previous peace agreements with any civilization , your perfidy is remembered and influences all rivals' degree of antagonism .
+if you are the largest , most powerful , and richest civilization in the world , all rivals are likely to be very demanding or antagonistic .
+however , if a particular opponent is puny in comparison to your might , his or her natural tendency to belligerence might be overridden .
+a civilization threatened with extinction is more interested in survival .
+leaders with whom you are allied tend to become jealous as your civilization grows larger and more powerful ; they expect to be appeased with gifts of cash or knowledge .
+on the other hand , allies who leap ahead of you may be generous when asked to share their good fortune .
+reputation .
+your reputation is based not on how peaceful or how warlike you are toward your neighbors , but on how often you keep your word .
+breaking alliances or treaties can blacken your reputation in the international community .
+savagely sacking the city of a treaty partner with legions , or breaking a cease-fire to bombard your opponent's city by stealth bomber are acts likely to be deplored throughout the known world .
+the actions of your diplomats and spies can also damage your standing .
+your computer opponents learn from your actions and adjust theirs to fit their expectations .
+if you habitually break treaties , other leaders will have no qualms about doing the same to you .
+it is important to note that the most severe censure is reserved for the ringleaders in group actions .
+if you break your word because you were "incited" by another player , the diplomatic penalty is drastically reduced .
+for example , if you have signed a treaty with the romans , and the greek emissary asks you to declare war on your erstwhile friends , it is a chance for you to break your treaty with the romans at a much- lessened penalty than if you had been the principle figure of treachery .
+over long periods of time , if you mend your ways by keeping your word to other rulers , the black marks on your reputation can be partially erased and your honor somewhat redeemed .
+if you build the eiffel tower wonder , the process of character redemption is speeded by a "lump sum" 25 percent shift in your favor , followed by a more rapid recovery over time .
+only through the effect of the eiffel tower can a player who has broken his word regain a spotless reputation .
+finally , your reputation matters on the domestic front , too .
+when you choose to govern your civilization as a republic or democracy , your senate pays careful attention to your conduct in foreign affairs .
+they can , for instance , force you to sign a cease-fire or peace agreement .
+they are also vigilant in trying to force you to keep your agreements .
+if they catch you circumventing their oversight by intentionally provoking an enemy -lrb- by refusing to leave enemy territory during a peace treaty , for instance , or if a diplomat or spy causes an international incident -rrb- , your government is likely to collapse into anarchy because of the scandal .
+the five diplomatic states .
+in civilization , all negotiations ended with an offer of peace or a declaration of war .
+in civilization ii , however , there are finer gradations of posture , or diplomatic state , than just these two options .
+the relationship between two cultures can be expressed as one of five different states : alliance , peace , cease-fire , neutrality , or war .
+each has repercussions in the movement and position of armies and other units , as well as on the international reputation of the participants .
+a short description of each state follows .
+alliance .
+in an alliance , you and your ally agree to full -lrb- or almost full -rrb- cooperation against your common enemies .
+this shared purpose and trust manifests in a relaxation of restrictions .
+you can freely enter each others' territories , ignoring zones of control , although you can not stack your units with those of your ally or actually enter each others' city spaces .
+if you have convinced a weaker power to ally with you , that ruler will expect occasional awards for his or her faithful service .
+your ally also expects your military assistance if he or she is attacked .
+because an alliance involves a great deal of trust and cooperation , it is more difficult to cancel than other types of agreement .
+you can not simply back-stab an ally by attacking him or her , but must first cancel your agreement during diplomatic negotiations .
+all units nearer to one of your former ally's cities than to one of your own are returned from the field to the closest friendly city .
+the reverse is also true : your former ally's armies are returned to his or her territory at the same time .
+breaking an alliance , for any reason , is remembered as a major transgression by all of the computer-controlled players .
+if you unilaterally cancel an alliance , your reputation suffers a "black mark" that is only very slowly erased by time .
+to cancel an alliance without receiving a black mark , you must maneuver your ally into terminating the agreement for you .
+peace .
+a peace treaty is in theory a permanent arrangement , in which you and your rival agree not to attack each other or even enter the other's territory with military units .
+in civilization ii a ruler's territory encompasses any space within the radii of his or her cities .
+units that violate this agreement may be asked to leave — and their failure to do so immediately can be considered a treaty violation , even if circumstances -lrb- like opposing units' zones of control -rrb- render the trespassing unit temporarily immobile .
+since it is a degree less cooperative than an alliance , there is no barrier that prevents you from breaking a peace treaty at any time — other than your concern for your reputation .
+breaking a peace treaty is a serious matter , and your ruthlessness is long remembered by all other cultures , not merely the one you double-crossed .
+if you wish to avoid the black mark on your reputation , you can try taunting the other leader into declaring war on you .
+if he or she falls for the maneuver , you reputation remains spotless , though your military preparedness might suffer as your armies absorb his or her first strike .
+peace treaties are most useful when you want a long period of quiet on a particular border , since their recognition of territorial borders keeps enemy units from harassing you and fortifying near your cities .
+by the same token , they impede you from entrenching your units in your treaty-partner's territory .
+cease-fire .
+a cease-fire is an agreement with a former enemy to end a war .
+your enemy might agree to a cease-fire because he or she wants to make peace , is tired of fighting , or simply wants to get some breathing space before attacking you again .
+once a cease-fire is signed , your former enemy ceases attacking your units and cities for approximately 16 turns .
+although a cease-fire enjoins you from attacking your former enemy , there are no territorial restrictions on where you may move your units — you can remain in your fortified positions , even adjacent to enemy cities .
+of course , maintaining military units near enemy cities is considered a sign of bad faith and will lead to friction in the future .
+unlike a peace treaty , a cease-fire is only a temporary agreement whose effects dwindle with time .
+once the cease-fire expires , your civilizations remain in a state of neutrality -lrb- described below -rrb- until some other negotiation or aggression takes place .
+a cease-fire is automatically extended for an additional 16 turns or so whenever tribute is paid by either side .
+a message informs you when a cease-fire you have signed expires .
+violating a cease- fire is an act of treachery that is remembered internationally , and that blackens your reputation .
+neutrality .
+this state represents not so much an agreement as a wary agreement to disagree — you are not openly at war with an enemy , but you have no formal connection , either .
+the lack of binding paperwork means that you can freely start a war at any time simply by attacking an enemy unit or city .
+on the other hand , you might also send an emissary to start negotiating a peace treaty or even an alliance with a neutral rival .
+territory is considered important while cultures maintain a neutral stance , and refusing to remove a unit that has entered the opponent's territory might be enough provocation for a declaration of war .
+the expulsion of your diplomat or spy from an opponent's territory is not in itself a contravention of neutrality .
+war .
+this diplomatic state represents the likelihood of open hostilities at any point in which your units contact your opponent's units .
+however , there are times when you might enter or remain in a state of war without the exchange of gunfire , as when continents separate your main forces from the enemy's .
+wars can start for innumerable reasons , ranging from self defense to greed and conquest .
+war might be openly declared after a breakdown in negotiations or in return for offenses rendered by ill-placed troops , or it can start with a sudden sneak attack .
+civilizations at war with yours might drag their neighbors into the conflict , too , by activating alliances -lrb- paying their allies to assist them in the attack -rrb- .
+once you are at war with another civilization , that ruler considers you a hated enemy unless and until you sign a cease-fire or other , more permanent , agreement .
+you must make up separately with each opponent -lrb- even those allied with a civilization with whom you have already negotiated -rrb- .
+if , for instance , the vikings and the sioux were allies in a war against you , you must negotiate one agreement to end hostilities with the vikings and a separate one to placate the sioux .
+negotiations .
+to begin negotiations with another ruler , simply pull down the foreign minister's report from the advisor menu , and click the send emissary button .
+the options available to you depend on your current diplomatic state and the attitude of your rival .
+if you send too many emissaries , a leader can get annoyed and refuse to speak to you .
+wait a few turns for his or her impatience to wear off , then try again .
+if you are at war with a rival , he or she might make a demand that you must satisfy if you wish to progress in your negotiations or might even refuse to meet with you .
+if you are in a state of neutrality or better and have not exhausted your welcome , you progress to the diplomacy menu .
+again , the options available to you depend on your current diplomatic state .
+we've prepared several tables to clarify your choices .
+the table below displays the gist of your emissary's polished phrases , the states in which he or she is allowed to offer such remarks , and the opponent's probable response .
+most results are self explanatory ; the two which direct you to other menus are expanded on below .
+"have a proposal to make ... "
+once you have your rival's ear , you can make a variety of suggestions .
+common sense tells you that the better an opponent likes you , the more likely he or she is to agree to your proposal .
+opponents also take your relative standing in the game into account .
+they are more likely to be magnanimous if you are far behind than if you are the pre-eminent power in the world .
+the following table gives the gist of your emissary's remarks and the rival's likely response .
+exchanging knowledge : civilizations that are not extremely antagonistic might accept an offer to trade civilization advances .
+they negotiate by requesting a particular advance from you .
+your options include accepting the deal as offered , vetoing the exchange , or offering an alternative advance instead of the one they requested .
+they , in turn , can accept or decline your revised offer .
+sometimes an opponent thinks less of you for offering lesser alternatives .
+you may continue trading as many technologies as you possess , provided the other party is interested .
+occasionally , you might be offered an advance as a gift or for a monetary fee .
+declaring war : civilizations who see an advantage in changing the balance of power might be persuaded to declare war on a mutual enemy .
+they usually request a cash payment for their trouble , but might demand two advances in lieu of gold .
+exchanging maps : civilizations might agree to exchange knowledge of the world in the form of accurate maps of territory they have explored .
+if they accept , the darkness is rolled back in your map window to represent their information .
+"have a gift to offer ... "
+sometimes rivals appreciate a tangible result more than mere flowery words .
+if you'd like to improve an opponent's attitude toward you , you have the option of offering a gift .
+several categories of persuasion are available : knowledge , money , and troops .
+offer knowledge : you can agree to offer knowledge to cement a better relationship .
+your rival suggests an advance they are interested in .
+you can agree to that choice , change your mind about the exchange , or make a counter-offer .
+your rival's opinion of you improves with each gift you make .
+offer money : you can attempt to offer a gift of cash to placate your rival .
+a dialog box lists your three levels of generosity .
+if you change your mind , the never mind option is always available .
+your rival's opinion of you always climbs if you give him or her gold .
+offer military unit : you can attempt to offer one of your existing military units to bolster a friend's army and encourage his or her good opinion .
+if the leader feels your technology is superior , a list of your cities appears .
+choose one to see the roster of units stationed there .
+click on a unit to send .
+that unit becomes part of the other civilization's army , and no longer draws support from your city .
+winning the game .
+as we explained in the introduction , there are two ways to win civilization ii .
+you can either beat the other civilizations into space by being the first to successfully colonize a distant system , or conquer all the other civilizations in the game .
+the space race .
+the environmental pressures of growing populations in the modern world are forcing humans to look into space for resources and room to live .
+the question is not whether humans will travel to the stars , but when .
+the final act of stewardship you can perform for your civilization is to ensure that they lead this exodus .
+the history of your civilization ends when either you or one of your rivals reaches a nearby star system with colonists .
+if your spaceship is the first to arrive , you receive a bonus to your civilization score in recognition of this final accomplishment .
+regardless of how many colonists your spaceship is carrying or how fast it is , if a rival makes planetfall first , you receive no bonus .
+no civilization can undertake spaceship component construction until one civilization has built the apollo program wonder .
+thereafter , the race is on and any civilization that has acquired the necessary advances can begin building the parts of a spaceship .
+spaceships are in many ways a one-shot deal .
+each civilization , including yours , can build only one spaceship at a time .
+restrictions prevent you from building a second , back- up ship once you launch the first .
+once launched , ships can not be recalled or turned around .
+you can construct a second spaceship only if your current ship explodes in space or if your capital city is captured while your spaceship is under construction -lrb- the conquerors burn it on the launch pad -rrb- .
+spaceships .
+the purpose of your spaceship is to carry as many colonists as possible to another star system .
+at a minimum , it must provide living space for colonists , life support , energy sources , propulsion power , and fuel for the engines .
+spending more time constructing additional components can result in a faster voyage and a higher colonist survival rate .
+as each new component is completed , the spaceship display appears , showing where the component is positioned and updating the statistics and specifications .
+all spaceships have the same characteristics : population , food , energy , mass , fuel , flight time , and probability of success .
+we'll explain each in turn .
+population .
+this figure represents the number of pioneers the spaceship is outfitted to carry .
+the more citizens it carries to the new planet , the higher your bonus .
+support .
+this figure shows what percentage of accommodations on the ship is currently serviced by life support : air , nutrient , and waste systems .
+pioneers not provided with life support can not survive the voyage .
+energy .
+this figure indicates what percentage of the energy required by habitation and life support modules is currently being provided .
+if sufficient energy is not available to power life support and habitation , the probability of success will be very low .
+mass .
+all of the components , modules , and structures add to the mass of your spaceship .
+the greater the mass , the more power is required from propulsion parts to move it .
+fuel .
+this figure indicates what percentage of the fuel your propulsion units require is currently aboard .
+if insufficient fuel is provided , the propulsion components aboard can not work to their maximum power and the ship can not attain its best possible speed .
+flight time .
+this calculation indicates the number of years required for your spaceship to reach the nearest star , based on the ship's current mass and engine power .
+adding more engines and fuel reduces flight time .
+probability of success .
+this figure incorporates all the other data -lrb- including the amount of food and energy available and the estimated flight time -rrb- in an estimate of the approximate percentage of colonists who are expected to survive the voyage .
+the faster the flight , the higher the expected survival rate .
+space ship launch .
+to send your spaceship on its voyage , click on the launch button .
+you can not retrieve a spaceship once it has been launched .
+construction .
+your spaceship is such a large undertaking that it can not be built whole cloth the way improvements are built — it is , instead , constructed of parts .
+there are three types of spaceship parts : components , modules , and structures , each of which we describe in detail below .
+you must achieve a new civilization advance to make each type of part available for construction .
+however , the delivery of spaceship parts to your capital city is handled automatically as each part is completed .
+though you can construct parts in any order , and most likely will have multiple parts under production simultaneously , all modules and components must eventually be connected to structural parts if you want them to function .
+unconnected modules or components are emphasized to signal that they are not working .
+once sufficient structural parts have been added to provide supply and support lines , the problem disappears .
+components .
+to build spaceship components you must have achieved the technological advance of plastics .
+you can then build components at a cost of 160 shields each .
+there are two kinds of components , propulsion and fuel .
+as each component is completed , you choose which type has been built .
+propulsion components : these parts are the engines that provide the power for space flight .
+more engines mean the ship travels faster , reaches its destination sooner , and has a higher probability of a successful mission .
+fuel components : these parts provide fuel for the propulsion units .
+in order for the propulsion units to perform at maximum levels , you must provide one fuel component for each propulsion component .
+modules .
+spaceship modules require the advance of superconductor and cost 320 shields each to build .
+they exist in three types : habitation , life support , and solar panels .
+as each module is completed , you choose which type it is and add it to your ship .
+habitation module : each habitation module provides living space , community services , and recreational facilities for 10 , 000 colonists .
+life support module : each life support module provides the food and other requirements for the 10 , 000 colonists carried in one habitation module .
+colonists carried in a habitation module that doesn't receive life support have a very low probability of surviving .
+solar panel module : each solar panel module provides enough energy to power two of the other types of module .
+modules that don't receive power can not function properly .
+structural support .
+structural units require the advance of space flight and cost 80 shields each to build .
+you must build sufficient structural units to connect the components and modules together .
+parts that are not connected do not work and provide no benefit to the ship .
+conquering the world .
+when striving to win this way , aggressiveness helps .
+your object is to take over any and all rival civilizations .
+note that if you vanquish other civilizations early enough in the game , some new tribe might develop a settlers unit and found a civilization using the color originally assigned to the vanquished culture .
+in this way , some civilizations "re-start."
+eventually , if you're lucky , you might be able to subjugate the entire world .
+if at any time you control the only settled civilization , you win , and the end game sequence proclaims you the ruler of the world .

@@ -1,0 +1,10 @@
+1. Install Tensorflow.
+2. Train language model
+python ~/ptb_word_lm.py --data_path=dataciv --file_prefix=charciv --seed_for_sample="move settler resource" --model=charlarge --save_path=resultciv-char
+3. Sampling from the model
+python ~/ptb_word_lm.py --data_path=dataciv --file_prefix=charciv --seed_for_sample="move settler resource" --model=charlarge --save_path=resultciv-char --sample_mode=True
+
+============================
+python version: 2.7
+Tensorflow version: Ubuntu/Linux 64-bit, CPU only, Python 2.7
+	   	    tensorflow_gpu-0.12.0rc0-cp27-none-linux_x86_64.whl

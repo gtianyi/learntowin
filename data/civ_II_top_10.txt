@@ -1,0 +1,10 @@
+building your first city .
+at the start of the game , your civilization consists of a single band of wandering nomads .
+this is a settlers unit .
+although settlers are capable of performing a variety of useful tasks , your first task is to move the settlers unit to a site that is suitable for the construction of your first city .
+finding suitable locations in which to build cities , especially your first city , is one of the most important decisions you make in the game .
+in order to survive and grow , each city must have access to all three resource types : food -lrb- represented by grain -rrb- , production -lrb- represented by shields -rrb- , and trade goods -lrb- represented by arrows -rrb- .
+the map in civilization ii is divided into individual "squares , " each of which contains a different type of terrain .
+each terrain type yields resources in differing amounts .
+a good city site provides all three resource types .
+normally , the lines dividing the map squares are invisible .
